@@ -65,4 +65,6 @@ The deployed Streamlit application can be accessed here:
 ## Authors
 
 Anita Gruber, Kusai Kristóf 
+
+```
 Data Analytics Portfolio Project
