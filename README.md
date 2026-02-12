@@ -1,4 +1,4 @@
-# Retail_sales_analitics_dashboard
+# Retail_sales_analytics_dashboard
 A Streamlit-based retail sales analytics dashboard with KPI metrics, filtering options and Top 10 product analysis.
 An interactive retail sales analytics dashboard built with Python and Streamlit.
 
